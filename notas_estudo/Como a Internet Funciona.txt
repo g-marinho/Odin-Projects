@@ -1,0 +1,49 @@
+1 - What is a network?
+São dois ou mais computadores, interligados entre si por um cabo de rede ou por conexão sem fio como Wi-Fi e Bluetooth
+
+2 - What is the internet?
+É a rede mundial de computadores. É a estrutura física que permite que a WEB exista,
+Funciona como um caminho onde trafegam todos os tipos de dados.
+
+3 - What is an IP Adress?
+São digitos formados por 4 números separados por ponto("."), ele correspondem ao endereço de um computador dentro de uma rede.
+
+4 - What is a router?
+É um dispositivo que encaminha os pacotes de dados que trafegam pela internet até o endereço correto.
+
+5 - What is a ISP?
+São os provedores de serviço de internet. São eles que permitem que uma máquina local, se conecte a internet através de
+seus roteadores especiais que conseguem se conectar com outros roteadores remotamente.
+
+6 - What are packets and how are they used to transfer data?
+São pequenos pacotes de dados. Arquivos grandes são quebrados nesses packets e entregues ao dispositivo final através das
+diversas rotas que a internet possui, isso permite que os arquivos sejam enviados com mais rapidez e que chegue a mais
+dispositivos.
+
+7 - What is a client?
+É um dispositivo, como smartphone/tablets/PCs e etc, que faz a requisição de algum documento armazenado numa outra máquina,
+conhecida como servidor.
+
+8 - What is a server?
+É onde os arquivos da internet se encontram, os clientes explicados acima fazem uma requisição de um documento ex: pagina web
+e se aquele documento está disponível naquele servidor, permite que o cliente faça o download do mesmo.
+
+9 - What is a web page?
+é um documento, normalmente escrito em HTML, que é vizualiado através de um browser.
+
+10 - What is a web server?
+é um servidor que armazena paginas web (Web pages)
+
+11 - What is a web browser?
+É um software que permite que você se conecter a servidores web e vizualise as web pages que ele armazena
+
+12 - What is a search engine?
+Basicamente é uma aplicação que permite que você procure páginas web.
+
+13 - What is a DNS request?
+Quando tentamos acessar uma web page ou web site, utilizamos nomes que são mais fáceis de memorizar e através de uma série de processos nosso dispositivo recebe de volta
+um endereço IP que corresponde ao domínio que utilizamos e o browser utiliza esse IP para se conectar ao servidor em que a página que corresponde aquele domínio está hospedada
+
+14 - In your own words, explain what happens when you run a search on google.com.
+O mecanismo de busca percorre a internet em busca de web pages ou web sites que contenham os termos que eu busquei, em seguida indexa e exibe os links que levam 
+até essas páginas

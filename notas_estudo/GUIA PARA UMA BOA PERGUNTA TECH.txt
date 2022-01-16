@@ -1,0 +1,43 @@
+O PROCESSO:
+
+1. ENTENDA O CÓDIGO DA MELHOR MANEIRA POSSÍVEL!!!
+- FAÇA ISSO!! Por favor não apresse essa etapa.
+- Verifique linha por linha e compreenda o que cada linha faz. faça anotações, pense sobre as coisas que podem ser confusas.
+- Evite questões que você pode entender por conta própria com uma rápida consulta no google.
+- Use um debbuger para te ajudar.
+
+2. DESCREVA O PROBLEMA DE FORMA CLARA!
+- Explique o contexto. Forneça o máximo de informações possíveis ao interlocutor. Se a dúvida é sobre um vídeo forneça o link junto com o timestamp que sua dúvida aparece.
+- Explique exatamente os passos que você seguiu até o problema aparecer. Por exemplo: você clicou em alguma sequencia de botoes? funciona em um navegador mas em outro não?.
+- Explique o que você espera que aconteça.
+- Explique o que de fato está acontencendo. Por exemplo, se há uma mensagem de erro, compartilhe junto com a linha de código que está causando o erro, se for um problemad e interface tira uma screenshot.
+
+3. FORNEÇA O CÓDIGO QUE ESTÁ COM PROBLEMA!
+- Se você está trabalhando num projeto grande, isole somente a parte que está dando erro e compartilhe.
+- Quando você compartilhar o código, tenha certeza que aquele código não seja alterado por outras pessoas. Ou seja crie uma cópia separada, somente para ser utilizada na sua dúvida.
+  se você altera o código enquanto alguém está analisando o erro, a sua dúvida não é apenas ruim, ela é imprecisa, o que é muito pior que uma dúvida ruim.
+
+4. TENHA CERTEZA QUE O CÓDIGO (OU PARTE DELE) QUE VOCÊ ESTÁ COMPARTILHANDO REPRODUZ O PROBLEMA QUE VOCÊ QUER RESOLVER.
+- Teste o código  e tenha certeza que ele está com o problema que você descreveu. Se você compartilha um código que apresenta um problema que não replica o seu problema, é impossível te ajudar.
+
+5. FORMATE SEU CÓDIGO COM CONSISTÊNCIA!
+- Aqui não importa o estilo que você usa, use-o de forma consistente. Isso torna seu código mais fácil de ser lido. Isso ajuda também com o próximo passo
+
+6. VERIFIQUE POR ERROS DE DIGITAÇÃO!!!
+- Esse é o tipo de problema que você pode resolver por si só. releia seu código linha por linha e ache seus erros de digitação!
+
+7. EXPLIQUE O VOCÊ FEZ PARA SOLUCIONAR O PROBLEMA!
+- Faça uma lista de hipóteses para aquele problema ocorrer e teste elas. Para cada hipotese explique o que você fez para testa-las.
+- Durante esse processo é comum que você mesmo consiga resolver o problema que estava te atormentando.
+
+8. EXPLIQUE QUAL QUE VOCÊ ACHA QUE É O PROBLEMA!
+- Baseado no passo anterior, diga qual a sua melhor hipótese para a existência desse problema
+
+9. REVISE A SUA PERGUNTA!!
+- Releia a sua pergunta e tenha certeza que você está fornecendo tudo que for necessário para outra pessoa responde-la.
+- Edite para dar clareza. Se você acha  que alguma coisa está confusa, conserte! Se houver erros de digitação conserte também, as pessoas podem assumir que seu problema pode ser causado por erro de digitação.
+
+10. FAÇA ATUALIZAÇÕES E LEMBRE-SE QUE ESSA NÃO SERÁ SUA ÚLTIMA DÚVIDA
+- Se você conseguiu resolver o seu problema, antes de qualquer um responder, então avise onde fez a pergunta para as pessoas não perderem tempo.
+- Quando você receber uma resposta tire um tempo para refletir e entender sobre o que a pessoa disse. Lembre-se que não necessariamente a resposta está correta. Teste!
+- Agradeça a cada um que te ajudou e lembre-se que ninguém é obrigado a responder, mas por algum motivo eles quiseram.	
